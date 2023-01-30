@@ -11,16 +11,6 @@ This is a [demo](http://dongchaoyang.top/PromptLM-TTS///) for our paper **_Promp
 
 ## Some Synthesized speech by our proposed methods.
 
-##### 1
-Style prompt: 
-Content Prompt:
-
-| Ground Truth Speech |
-| -----------     |
-| <audio src="non_pa/sample1/100_121674_000026_000003.wav" controls preload></audio> |
-
-##### Target Text: well , his grill has a plating of gold , and his twistings are greatly admired
-
 | <center> Style prompt </center> | <center> Content Prompt </center> | <center> Generated Speech </center>|
 | -----------     |  -----------     |
 | style prompt | Content Prompt | <audio src="non_pa/sample1/[000001][100_121674_000026_000003][Generalize]Y.wav" controls preload></audio> |
