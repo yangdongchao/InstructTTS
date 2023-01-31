@@ -15,7 +15,8 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 
 | <center> Style prompt </center> | <center> Content Prompt </center> | <center> Generated Speech </center>|
 | -----------     |  -----------     |
-| style prompt | Content Prompt | <audio src="non_pa/sample1/[000001][100_121674_000026_000003][Generalize]Y.wav" controls preload></audio> |
+| 语调中带着嫌弃不满的情绪，彰显出说话着极度抱怨的情感
+ | 不用别人点她自己就炸了，你说你也是的，干吗要介绍一个这么花花公子的人给小萍啊？ | <audio src="InstructTTS_mel/tx_emulate_00_102_0003_000034.wav" controls preload></audio> |
 
 
 ## Links
