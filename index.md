@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # <center> InstructTTS </center>
+=======
+# <center> InstructTTS </center>
+>>>>>>> 8dae1201ee5dccee6cd5f58fb9f4942189f0fa1e
 
 <center> Dongchao Yang*<sup>1</sup>, Songxiang Liu*<sup>2</sup>, Rongjie Huang <sup>3</sup>, Chao Weng<sup>2</sup>, Helen Meng<sup>1</sup>, Dong Yu<sup>2</sup></center> 
  
@@ -6,10 +10,15 @@
 <center> 2 Tencent AI Lab</center>
 <center> 3 Zhejiang University</center>
 
+<<<<<<< HEAD
 
 
 ## Introduction
 This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt_**. In the following, we will show some generated samples by our proposed method.
+=======
+## Introduction
+This is a [demo](http://dongchaoyang.top/PromptLM-TTS///) for our paper **_PromptLM-TTS_**. In the following, we will show some generated samples by our proposed method.
+>>>>>>> 8dae1201ee5dccee6cd5f58fb9f4942189f0fa1e
 
 ## Some Synthesized speech by our proposed methods.
 

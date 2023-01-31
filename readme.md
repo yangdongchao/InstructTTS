@@ -1,1 +1,1 @@
-### The demo page of our paper PromptML-TTS.
+### The demo page of our paper PromptLM-TTS.
