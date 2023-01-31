@@ -25,6 +25,7 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 | 话语带有一种诧异的心情，还有一点质疑的态度，夹杂着不满 | 她你也要请啊。 | <audio src="InstructTTS_mel/tx_emulate_02_255_0001_000067.wav" controls preload></audio> |
 | 语气有些许不耐烦的感觉，说话仍然温和，只是有些疑惑 | 哎，阿良，你有没有听我说话，让我出去，你到底在干什么。 | <audio src="InstructTTS_mel/tx_xiao_0200106000561.wav" controls preload></audio> |
 | 语调冷淡急促，内心充满鄙视和嘲讽 | 一群土老帽儿，说你们也不懂。 | <audio src="InstructTTS_mel/tx_emulate_02_256_0006_000059.wav" controls preload></audio> |
+| 言语和语气都是嫌弃 | 切~~，有本事我们来个2对2的对决呀。 | <audio src="InstructTTS_mel/tx_emotion_00304000102.wav" controls preload></audio> |
 
 ## Links
 
