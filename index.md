@@ -12,11 +12,12 @@
 This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt_**. In the following, we will show some generated samples by our proposed method.
 
 
-## Some Synthesized speech by our proposed methods.
+## Some Synthesized speech by InstructTTS.
 
 | <center> Style prompt </center> | <center> Content Prompt </center> | <center> Generated Speech </center>|
 | -----------     |  -----------     |
 | 语调中带着嫌弃不满的情绪，彰显出说话着极度抱怨的情感 | 不用别人点她自己就炸了，你说你也是的，干吗要介绍一个这么花花公子的人给小萍啊？ | <audio src="InstructTTS_mel/tx_emulate_00_102_0003_000034.wav" controls preload></audio> |
+| 语气中带着一点不自信，感觉不是很肯定的样子 | 也算情人吧4。 | <audio src="InstructTTS_mel/tx_emulate_00_103_0001_000037.wav" controls preload></audio> |
 
 
 
