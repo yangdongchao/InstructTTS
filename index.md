@@ -35,6 +35,33 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 | 语调冷淡急促，内心充满鄙视和嘲讽 | 一群土老帽儿，说你们也不懂。 | <audio src="InstructTTS_mel/tx_emulate_02_256_0006_000059.wav" controls preload></audio> |
 | 言语和语气都是嫌弃 | 切~~，有本事我们来个2对2的对决呀。 | <audio src="InstructTTS_mel/tx_emotion_00304000102.wav" controls preload></audio> |
 
+
+## Different speaking style comparison
+
+#### Content: 学长今天还说他喜欢我呢。你不珍惜我，我就跟别人跑了
+
+| <center> Style prompt </center> | <center> Generated Speech </center>|
+| -----------  |
+| 语调高昂，声音宏亮，内心非常愤慨 | <audio src="demo/101.wav" controls preload></audio> |
+| 声音高，语气严厉，大声呵斥 | <audio src="demo/108.wav" controls preload></audio> |
+| 镇定从容,语气平和，语调稳定 | <audio src="demo/109.wav" controls preload></audio> |
+| 语气中惆怅含有一丝苦涩 | <audio src="demo/115.wav" controls preload></audio> |
+| 声音难过，郁郁寡欢，倾诉的语气中透露出疲惫落寞的情感 | <audio src="demo/116.wav" controls preload></audio> |
+
+#### Content: 大家再努把力，今天是我们今年在西藏工作的最后一天了，只要我们样本采集好了我们就可以圆满的完成任务了
+
+| <center> Style prompt </center> | <center> Generated Speech </center>|
+| -----------  |
+| 一本正经地说 | <audio src="demo2/1.wav" controls preload></audio> |
+| 一脸严肃地说 | <audio src="demo2/2.wav" controls preload></audio> |
+| 非常严厉地说 | <audio src="demo2/3.wav" controls preload></audio> |
+| 语气坚定自如，充满自信 | <audio src="demo2/4.wav" controls preload></audio> |
+| 大声呵斥 | <audio src="demo2/5.wav" controls preload></audio> |
+| 语气缓慢地说 | <audio src="demo2/6.wav" controls preload></audio> |
+| 轻声缓慢地说着 | <audio src="demo2/7.wav" controls preload></audio> |
+| 语气中惆怅含有一丝苦涩 | <audio src="demo2/8.wav" controls preload></audio> |
+| 语气哽咽，微微颤抖，想要表达内心的悲痛 | <audio src="demo2/9.wav" controls preload></audio> |
+
 ## Links
 
 [[Paper]()] [[Bibtex]()] [[Demo GitHub](http://dongchaoyang.top/PromptLM-TTS)] [[TencentAILab](https://ai.tencent.com/ailab/zh/index)] [[CUHK]()] [[code]()]
