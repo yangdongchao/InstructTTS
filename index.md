@@ -64,5 +64,5 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 
 ## Links
 
-[[Paper]()] [[Bibtex]()] [[Demo GitHub](http://dongchaoyang.top/PromptLM-TTS)] [[TencentAILab](https://ai.tencent.com/ailab/zh/index)] [[CUHK]()] [[code]()]
+[[Paper](https://arxiv.org/abs/2301.13662)] [[Bibtex]()] [[Demo GitHub](http://dongchaoyang.top/PromptLM-TTS)] [[TencentAILab](https://ai.tencent.com/ailab/zh/index)] [[CUHK]()] [[code]()]
 
