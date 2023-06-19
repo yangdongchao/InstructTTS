@@ -67,8 +67,8 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 
 | <center> Style prompt </center> | <center> Content Prompt </center> | <center> InstructTTS (Mel) </center> |  <center> InstructTTS (Wave) </center>|
 | -----------     |  -----------     |   -----------     |
-| 急切，激动，大声的表达自己观点 | 哥，我早说过大嫂掉下去不关我的事，可况她根本就没怀孕！ | <audio src="compare_mel/tx_emotion_00204000116.wav" controls preload></audio> | <audio src="compare_wave/tx_emotion_00204000116.wav" controls preload></audio> | 
-| 因他人不好的行为而气愤不已，发出严声质问 | 就算你再怎么恨周傲宇都好，你为什么要拿孩子撒气 | <audio src="compare_mel/tx_emotion_00205000027.wav" controls preload></audio> | <audio src="compare_wav/tx_emotion_00205000027.wav" controls preload></audio> | 
+| 急切，激动，大声的表达自己观点 | 哥，我早说过大嫂掉下去不关我的事，何况她根本就没怀孕！ | <audio src="compare_mel/tx_emotion_00204000116.wav" controls preload></audio> | <audio src="compare_wave/tx_emotion_00204000116.wav" controls preload></audio> | 
+| 因他人不好的行为而气愤不已，发出严声质问 | 就算你再怎么恨周傲于都好，你为什么要拿孩子撒气 | <audio src="compare_mel/tx_emotion_00205000027.wav" controls preload></audio> | <audio src="compare_wave/tx_emotion_00205000027.wav" controls preload></audio> | 
 | 伤心难过，又无能为力，很悲观的情绪 | 因为他要做一个很长很长的梦 | <audio src="compare_mel/tx_emotion_00207000181.wav" controls preload></audio> |  <audio src="compare_wave/tx_emotion_00207000181.wav" controls preload></audio> |
 | 语速略快，声音高昂，充满兴奋与轻快 | 窗外，熟悉的鸟儿们欢天喜地的歌唱 | <audio src="compare_mel/tx_xiao_0200103000541.wav" controls preload></audio> | <audio src="compare_wave/tx_xiao_0200103000541.wav" controls preload></audio> |
 
