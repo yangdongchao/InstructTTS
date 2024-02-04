@@ -1,6 +1,6 @@
 # <center> InstructTTS </center>
 
-<center> Dongchao Yang*<sup>1</sup>, Songxiang Liu*<sup>2</sup>, Rongjie Huang <sup>3</sup>, Guangzhi Lei<sup>2</sup>, Chao Weng<sup>2</sup>, Helen Meng<sup>1</sup>, Dong Yu<sup>2</sup></center> 
+<center> Dongchao Yang*<sup>1</sup>, Songxiang Liu*<sup>2</sup>, Rongjie Huang <sup>3</sup>, Chao Weng<sup>2</sup>, Helen Meng<sup>1</sup> </center> 
  
 <center> 1 Chinese University of Hong Kong </center>
 <center> 2 Tencent AI Lab</center>
