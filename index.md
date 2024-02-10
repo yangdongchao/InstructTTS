@@ -19,6 +19,14 @@ Extensive objective and subjective evaluation has been conducted to verify the e
 ## Introduction
 This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt_**. In the following, we will show some generated samples by our proposed method. More Generated speech, please refer to https://github.com/yangdongchao/InstructTTS/tree/gh-pages
 
+## The Comparison between InstructTTS and Baseline
+
+| <center> Style prompt </center> | <center> Content Prompt </center> | <center> Baseline </center> |  <center> InstructTTS </center>|
+| -----------     |  -----------     |   -----------     |
+| 声音适中，语气缓和，说话人不急不慢的表达自己的态度 | 你想, 你有什么能力去做这样的改变嘛 | <audio src="baseline/instruct_demo/nixiangguo_base.wav" controls preload></audio> | <audio src="baseline/instruct_demo/nixiangguo.wav" controls preload></audio> | 
+| 感到不爽，心情很不舒畅 | 我和我哥哥住，跟你有什么关系呀 | <audio src="baseline/instruct_demo/Y_tx_emotion_00305000481.wav" controls preload></audio> | <audio src="baseline/instruct_demo/tx_emotion_00305000481.wav" controls preload></audio> | 
+| 因他人不好的行为而气愤不已，发出严声质问 | 就算你再怎么恨周傲于都好，你为什么要拿孩子撒气  | <audio src="baseline/instruct_demo/Y_tx_emotion_00205000027.wav" controls preload></audio> | <audio src="compare_mel/tx_emotion_00205000027.wav" controls preload></audio> | 
+
 
 ## Some Synthesized speech by InstructTTS.
 
